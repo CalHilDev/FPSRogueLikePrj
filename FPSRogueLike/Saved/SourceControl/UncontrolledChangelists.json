@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Pro/FPSRogueLikePrj/FPSRogueLike/Content/Blueprints/BP_EnemyAI.uasset",
+				"F:/Pro/FPSRogueLikePrj/FPSRogueLike/Content/Animations/EnemyAI/WalkBlendSpace1D.uasset",
+				"F:/Pro/FPSRogueLikePrj/FPSRogueLike/Content/Animations/EnemyAI/AP_EnemyAI.uasset",
+				"F:/Pro/FPSRogueLikePrj/FPSRogueLike/Content/Animations/Stable_Sword_Outward_Slash.uasset",
+				"F:/Pro/FPSRogueLikePrj/FPSRogueLike/Content/Animations/EnemyAI/AM_EnemyAttack.uasset",
+				"F:/Pro/FPSRogueLikePrj/FPSRogueLike/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/Pro/FPSRogueLikePrj/FPSRogueLike/Content/UI/WP_HealthBar.uasset",
 				"F:/Pro/IkaIDE/IDEgame/FPSRogueLike/Content/Blueprints/BP_EnemyAI.uasset",
 				"F:/Pro/IkaIDE/IDEgame/FPSRogueLike/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset"
 			]
