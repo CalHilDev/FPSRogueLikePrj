@@ -1,0 +1,3 @@
+UNREAL NOTES for FPSROGUELIKE
+
+Powerups from levels trigger custom event in actor script leading to var change
