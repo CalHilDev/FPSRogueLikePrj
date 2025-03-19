@@ -1,3 +1,24 @@
 UNREAL NOTES for FPSROGUELIKE
 
 Powerups from levels trigger custom event in actor script leading to var change
+
+Powerups:
+Increase Max Health by +x%
+Increase player damage by +x%
+increase health pickup healing by +x
+Increase xp gains by x%
+Weapons now apply a bleed doing x% of weapon damage over n seconds
+Increase bleed damage by +x%
+Weapons now slowly freeze the target reducing movement speed by x% per stack (up to y%)
+Increase slow potency by x%
+Unlock flame bullets cooldown: m seconds - applies a burn dealing 2x% of weapon damage of n seconds BUT increases enemy movement speed by y% for n seconds (while burning, freeze stacks = 0)
+Increase burn potency by x% (dmg & MS)
+Unlock Shatter - using a flame bullet on a target with z freeze stacks deals 3x weapon damage AND removing all freeze stacks
+Increases shatter damage by x%
+
+Damage over Time logic:
+Total Damage = D
+Time = T
+Damage per tick = (D/T)
+i = 0
+Event AnyDamage --> While i<T: [ Health -= (D/T) --> i++ ]
