@@ -15,6 +15,9 @@ Unlock flame bullets cooldown: m seconds - applies a burn dealing 2x% of weapon 
 Increase burn potency by x% (dmg & MS)
 Unlock Shatter - using a flame bullet on a target with z freeze stacks deals 3x weapon damage AND removing all freeze stacks
 Increases shatter damage by x%
+Potentially increase duration of DoT effects (adds ticks for each application, doesn't alter dps at all)
+Crit chance and damage - indicator big number or flashy effect?
+DoT crits?
 
 Damage over Time logic:
 Total Damage = D
@@ -22,3 +25,17 @@ Time = T
 Damage per tick = (D/T)
 i = 0
 Event AnyDamage --> While i<T: [ Health -= (D/T) --> i++ ]
+
+MaxMS - (SlowPotency * Slow Stacks)
+
+Special fx packs - free until net income $100k
+
+Level powers:
+1 - level up
+2 - pause game
+3 - display 3 elements on the screen
+4 - make the elements random
+5 - give them all a button which calls a buff event
+6 - resume game after power up acquired
+
+powerup panels 300x500y
