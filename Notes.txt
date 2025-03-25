@@ -39,3 +39,11 @@ Level powers:
 6 - resume game after power up acquired
 
 powerup panels 300x500y
+health one made already, use as template
+
+powerup chance:
+give everything a chance value
+put them in an array
+sum the array
+random pick int in range
+check where int lies in terms of chance values
