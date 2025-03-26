@@ -40,10 +40,23 @@ Level powers:
 
 powerup panels 300x500y
 health one made already, use as template
+need to find a way to specify what box it should display on
 
 powerup chance:
-give everything a chance value
-put them in an array
-sum the array
-random pick int in range
-check where int lies in terms of chance values
+array of rarities = [common*16, uncommon*8, rare*4, epic*2, legendary]
+example of rarity array | common[] = [health, damage, speed, etc.]
+
+Powerups:
+Common:
+Health small, Damage small, XP small
+Uncommon:
+Health big, Damage big, XP big, bleed damage small, burn potency small, chill potency small, crit chance small, shatter damage small
+Rare:
+Crits, bleed damage big, burn potency big, chill potency big, crit chance big, shatter damage big
+Epic:
+Bleed, Burn, Chill, DoT duration increase
+Legendary:
+Extra dash, Shatter
+
+
+
