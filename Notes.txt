@@ -50,13 +50,17 @@ Powerups:
 Common:
 Health small, Damage small, XP small
 Uncommon:
-Health big, Damage big, XP big, bleed damage small, burn potency small, chill potency small, crit chance small, shatter damage small
+Health big, Damage big, XP big, bleed damage small, burn potency small, chill potency small, crit chance small, shatter damage small, crit dam small
 Rare:
-Crits, bleed damage big, burn potency big, chill potency big, crit chance big, shatter damage big
+bleed damage big, burn potency big, chill potency big, crit chance big, shatter damage big, crit damage big
 Epic:
 Bleed, Burn, Chill, DoT duration increase
 Legendary:
 Extra dash, Shatter
 
 
-
+Outstanding issues:
+-Enemy range detection
+-Enemy time between attacks
+-Increase xp powerup bugged ?because no enemy is in scene to apply buff to? !add enemyai off scene!
+-After 1 crit happens, everything crits, reset gun damage or create a crit gun dmg var

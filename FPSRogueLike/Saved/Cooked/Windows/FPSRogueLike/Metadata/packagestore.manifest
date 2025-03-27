@@ -1637,6 +1637,14 @@
 			"ChunkId": "5ccfc665c4580e0d00000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/Blueprints/DS_Powerup.uasset",
+			"ChunkId": "d24081f04e9d090000000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/Blueprints/DS_Rarity.uasset",
+			"ChunkId": "7a482da36680080b00000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset",
 			"ChunkId": "879836b9ddcf8b7300000001"
 		},
@@ -6781,6 +6789,18 @@
 			"ChunkId": "7a7985bf4086eadd00000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffDamageWeapon.uasset",
+			"ChunkId": "fc7d63fb6bd2917000000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffHealth.uasset",
+			"ChunkId": "d9c2ef0caca4698000000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffXP.uasset",
+			"ChunkId": "460b29eaa93f512b00000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/UI/WB_Crosshair.uasset",
 			"ChunkId": "251e6a39b16cbb8400000001"
 		},
@@ -8708,6 +8728,18 @@
 			"Name": "/Game/Blueprints/BP_RandomSpawner",
 			"ExportBundleChunkIds": [
 				"5ccfc665c4580e0d00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/DS_Powerup",
+			"ExportBundleChunkIds": [
+				"d24081f04e9d090000000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/DS_Rarity",
+			"ExportBundleChunkIds": [
+				"7a482da36680080b00000001"
 			]
 		},
 		{
@@ -15236,6 +15268,24 @@
 			"Name": "/Game/UI/DMGEffect",
 			"ExportBundleChunkIds": [
 				"7a7985bf4086eadd00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffDamageWeapon",
+			"ExportBundleChunkIds": [
+				"fc7d63fb6bd2917000000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffHealth",
+			"ExportBundleChunkIds": [
+				"d9c2ef0caca4698000000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffXP",
+			"ExportBundleChunkIds": [
+				"460b29eaa93f512b00000001"
 			]
 		},
 		{
