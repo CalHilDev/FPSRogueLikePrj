@@ -58,9 +58,12 @@ Bleed, Burn, Chill, DoT duration increase
 Legendary:
 Extra dash, Shatter
 
+crit logic:
+SET crit dam = gunDam * critMulti 
+after hit crit dam = 0; hasCrit = false
 
 Outstanding issues:
--Enemy range detection
 -Enemy time between attacks
 -Increase xp powerup bugged ?because no enemy is in scene to apply buff to? !add enemyai off scene!
--After 1 crit happens, everything crits, reset gun damage or create a crit gun dmg var
+-Enemy speed might be targeting the wrong vars, should be mvspd not maxmvspd
+-Not enough rare+ powerups
