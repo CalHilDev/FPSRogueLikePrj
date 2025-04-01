@@ -51,10 +51,11 @@ Common:
 Health small, Damage small, XP small
 Uncommon:
 Health big, Damage big, XP big, bleed damage small, burn potency small, chill potency small, crit chance small, shatter damage small, crit dam small
+Small = 10%
 Rare:
-bleed damage big, burn potency big, chill potency big, crit chance big, shatter damage big, crit damage big
+bleed damage big, burn potency big, chill potency big, crit chance big, shatter damage big, crit damage big | big = 25%
 Epic:
-Bleed, Burn, Chill, DoT duration increase
+Bleed, Burn, Chill, DoT duration increase, DoT potency large (50%)
 Legendary:
 Extra dash, Shatter
 
@@ -64,6 +65,5 @@ after hit crit dam = 0; hasCrit = false
 
 Outstanding issues:
 -Enemy time between attacks
--Increase xp powerup bugged ?because no enemy is in scene to apply buff to? !add enemyai off scene!
--Enemy speed might be targeting the wrong vars, should be mvspd not maxmvspd
 -Not enough rare+ powerups
+-Slows

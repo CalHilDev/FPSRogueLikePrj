@@ -2765,6 +2765,10 @@
 			"ChunkId": "4fec0163af43e6cc00000002"
 		},
 		{
+			"Path": "FPSRogueLike/Content/Maps/NewProjectTest.umap",
+			"ChunkId": "a5a1a9bc24038a0900000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/Materials/M_Laser.uasset",
 			"ChunkId": "7a2512052d824c9c00000001"
 		},
@@ -6781,6 +6785,14 @@
 			"ChunkId": "ff92e738ee7e721800000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/Tests/FT_DamageTakenTest.uasset",
+			"ChunkId": "30656cc0a156eb0c00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/Tests/FT_PlayerMoveTest.uasset",
+			"ChunkId": "f0d0cb70f1dc412000000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/UI/Crosshair.uasset",
 			"ChunkId": "f77841d63f25ec8a00000001"
 		},
@@ -6789,12 +6801,36 @@
 			"ChunkId": "7a7985bf4086eadd00000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBleed.uasset",
+			"ChunkId": "078449e7c5b0279600000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffCritChance.uasset",
+			"ChunkId": "529a3d161b8a597d00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffCritChanceBig.uasset",
+			"ChunkId": "b195f2fac876cb9e00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffCritDamage.uasset",
+			"ChunkId": "0d33f590a988ad1300000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffDamageWeapon.uasset",
 			"ChunkId": "fc7d63fb6bd2917000000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffDash.uasset",
+			"ChunkId": "4ee315bb07b96f8100000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffHealth.uasset",
 			"ChunkId": "d9c2ef0caca4698000000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffHealthBig.uasset",
+			"ChunkId": "168c209a8bcc3dfc00000001"
 		},
 		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffXP.uasset",
@@ -10243,6 +10279,12 @@
 			],
 			"BulkDataChunkIds": [
 				"4fec0163af43e6cc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/NewProjectTest",
+			"ExportBundleChunkIds": [
+				"a5a1a9bc24038a0900000001"
 			]
 		},
 		{
@@ -15259,6 +15301,18 @@
 			]
 		},
 		{
+			"Name": "/Game/Tests/FT_DamageTakenTest",
+			"ExportBundleChunkIds": [
+				"30656cc0a156eb0c00000001"
+			]
+		},
+		{
+			"Name": "/Game/Tests/FT_PlayerMoveTest",
+			"ExportBundleChunkIds": [
+				"f0d0cb70f1dc412000000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/Crosshair",
 			"ExportBundleChunkIds": [
 				"f77841d63f25ec8a00000001"
@@ -15271,15 +15325,51 @@
 			]
 		},
 		{
+			"Name": "/Game/UI/WB_BuffBleed",
+			"ExportBundleChunkIds": [
+				"078449e7c5b0279600000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffCritChance",
+			"ExportBundleChunkIds": [
+				"529a3d161b8a597d00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffCritChanceBig",
+			"ExportBundleChunkIds": [
+				"b195f2fac876cb9e00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffCritDamage",
+			"ExportBundleChunkIds": [
+				"0d33f590a988ad1300000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/WB_BuffDamageWeapon",
 			"ExportBundleChunkIds": [
 				"fc7d63fb6bd2917000000001"
 			]
 		},
 		{
+			"Name": "/Game/UI/WB_BuffDash",
+			"ExportBundleChunkIds": [
+				"4ee315bb07b96f8100000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/WB_BuffHealth",
 			"ExportBundleChunkIds": [
 				"d9c2ef0caca4698000000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffHealthBig",
+			"ExportBundleChunkIds": [
+				"168c209a8bcc3dfc00000001"
 			]
 		},
 		{
