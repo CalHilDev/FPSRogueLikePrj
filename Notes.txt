@@ -18,6 +18,7 @@ Increases shatter damage by x%
 Potentially increase duration of DoT effects (adds ticks for each application, doesn't alter dps at all)
 Crit chance and damage - indicator big number or flashy effect?
 DoT crits?
+Reduce damage taken
 
 Damage over Time logic:
 Total Damage = D
@@ -55,15 +56,46 @@ Small = 10%
 Rare:
 bleed damage big, burn potency big, chill potency big, crit chance big, shatter damage big, crit damage big | big = 25%
 Epic:
-Bleed, Burn, Chill, DoT duration increase, DoT potency large (50%)
+Bleed, Burn, Chill, DoT potency large (50%), health pick up time
 Legendary:
-Extra dash, Shatter
+Extra dash, Shatter, DoT duration increase
 
 crit logic:
 SET crit dam = gunDam * critMulti 
 after hit crit dam = 0; hasCrit = false
 
+Current Powerups
+Common:
+-Health small
+-XP small
+-DMG small
+Uncommon:
+-Health big
+-Crit chance small
+-Crit dmg small
+-xp big
+Rare:
+-Crit chance big
+-Crit damage big
+-xp large
+Epic:
+-Bleed
+-Burn
+-health spawn time
+Legendary:
+-Dash
+-Dmg reduction
+-multishot
+
+
 Outstanding issues:
 -Enemy time between attacks
 -Not enough rare+ powerups
 -Slows
+-Shatter
+-Keep testing xp
+
+For Alpha V1 MVP:
+-?Difficulty increase over time?
+
+
