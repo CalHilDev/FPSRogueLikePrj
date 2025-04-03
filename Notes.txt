@@ -87,6 +87,16 @@ Legendary:
 -Dmg reduction
 -multishot
 
+Add duration logic (int addedTime):
+DoTdmg += (DoTdmg/DoTtime)*addedTime
+DoTtime += addedTime
+!SetBleed/BurnDamage event override variable!
+Bool an ifIsSet to stop it reseting
+OR new var initialDoTDuration | on SetDoTdmg divide number by initialDoTDuration then multiply by DoTDuration | alter addDoTDuration <-- this
+
+Boss spawn logic:
+Have a dead enemy counter
+On threshold -> reset counter, increase threshold, despawn all enemies, spawn boss
 
 Outstanding issues:
 -Enemy time between attacks
@@ -94,8 +104,16 @@ Outstanding issues:
 -Slows
 -Shatter
 -Keep testing xp
+-Difficulty increase over time
+-Wall run
+-Double jump
 
-For Alpha V1 MVP:
--?Difficulty increase over time?
+Changelog:
+-Added a main menu, pause menu now sends the player to main menu with the old exit button
+-Added a timer that starts on game start and ends only at the end of the game
+-Added framework to increase difficulty of enemies based on amount of enemies killed
+Issues:
+-Timer does not pause when the game is paused
+-Difficulty is not increased when the threshold is reached
 
 

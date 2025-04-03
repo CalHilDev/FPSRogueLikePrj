@@ -189,6 +189,14 @@
 			"ChunkId": "cb90c94586b3228900000001"
 		},
 		{
+			"Path": "Engine/Content/EditorResources/FieldNodes/_Resources/M_FieldVolumePreview.uasset",
+			"ChunkId": "d496c17aa760afcc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/FieldNodes/_Resources/MI_FieldVolumePreview.uasset",
+			"ChunkId": "014e5cf63312726a00000001"
+		},
+		{
 			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
 			"ChunkId": "6ed73496191bba2800000001"
 		},
@@ -6805,6 +6813,34 @@
 			"ChunkId": "078449e7c5b0279600000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBleedPotency10.uasset",
+			"ChunkId": "ce6cc5c6051e1b1b00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBleedPotency25.uasset",
+			"ChunkId": "8b7b20d61260039400000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBleedPotency50.uasset",
+			"ChunkId": "882615f81ae1a3c000000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBurn.uasset",
+			"ChunkId": "007fbc2bbede51d000000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBurnPotency10.uasset",
+			"ChunkId": "1d9d8784ba71384e00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBurnPotency25.uasset",
+			"ChunkId": "03054f20a526ac4700000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffBurnPotency50.uasset",
+			"ChunkId": "347683e0c989f3b900000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffCritChance.uasset",
 			"ChunkId": "529a3d161b8a597d00000001"
 		},
@@ -6815,6 +6851,14 @@
 		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffCritDamage.uasset",
 			"ChunkId": "0d33f590a988ad1300000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffCritDamageBig.uasset",
+			"ChunkId": "5ef6fa11ea84757700000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffDamageReduction.uasset",
+			"ChunkId": "1354711e37814a6000000001"
 		},
 		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffDamageWeapon.uasset",
@@ -6833,8 +6877,24 @@
 			"ChunkId": "168c209a8bcc3dfc00000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffHealthSpawnTime.uasset",
+			"ChunkId": "84d4e1d7691a7a1c00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffMultiShot.uasset",
+			"ChunkId": "377a68b6ff87e04500000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffXP.uasset",
 			"ChunkId": "460b29eaa93f512b00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffXPBig.uasset",
+			"ChunkId": "5bc71ce7a4e0f93900000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffXPLarge.uasset",
+			"ChunkId": "b76afe51bc0b1a0200000001"
 		},
 		{
 			"Path": "FPSRogueLike/Content/UI/WB_Crosshair.uasset",
@@ -7618,6 +7678,18 @@
 			"Name": "/Engine/EditorResources/EmptyActor",
 			"ExportBundleChunkIds": [
 				"cb90c94586b3228900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/FieldNodes/_Resources/M_FieldVolumePreview",
+			"ExportBundleChunkIds": [
+				"d496c17aa760afcc00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/FieldNodes/_Resources/MI_FieldVolumePreview",
+			"ExportBundleChunkIds": [
+				"014e5cf63312726a00000001"
 			]
 		},
 		{
@@ -15331,6 +15403,48 @@
 			]
 		},
 		{
+			"Name": "/Game/UI/WB_BuffBleedPotency10",
+			"ExportBundleChunkIds": [
+				"ce6cc5c6051e1b1b00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffBleedPotency25",
+			"ExportBundleChunkIds": [
+				"8b7b20d61260039400000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffBleedPotency50",
+			"ExportBundleChunkIds": [
+				"882615f81ae1a3c000000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffBurn",
+			"ExportBundleChunkIds": [
+				"007fbc2bbede51d000000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffBurnPotency10",
+			"ExportBundleChunkIds": [
+				"1d9d8784ba71384e00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffBurnPotency25",
+			"ExportBundleChunkIds": [
+				"03054f20a526ac4700000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffBurnPotency50",
+			"ExportBundleChunkIds": [
+				"347683e0c989f3b900000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/WB_BuffCritChance",
 			"ExportBundleChunkIds": [
 				"529a3d161b8a597d00000001"
@@ -15346,6 +15460,18 @@
 			"Name": "/Game/UI/WB_BuffCritDamage",
 			"ExportBundleChunkIds": [
 				"0d33f590a988ad1300000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffCritDamageBig",
+			"ExportBundleChunkIds": [
+				"5ef6fa11ea84757700000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffDamageReduction",
+			"ExportBundleChunkIds": [
+				"1354711e37814a6000000001"
 			]
 		},
 		{
@@ -15373,9 +15499,33 @@
 			]
 		},
 		{
+			"Name": "/Game/UI/WB_BuffHealthSpawnTime",
+			"ExportBundleChunkIds": [
+				"84d4e1d7691a7a1c00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffMultiShot",
+			"ExportBundleChunkIds": [
+				"377a68b6ff87e04500000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/WB_BuffXP",
 			"ExportBundleChunkIds": [
 				"460b29eaa93f512b00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffXPBig",
+			"ExportBundleChunkIds": [
+				"5bc71ce7a4e0f93900000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffXPLarge",
+			"ExportBundleChunkIds": [
+				"b76afe51bc0b1a0200000001"
 			]
 		},
 		{
