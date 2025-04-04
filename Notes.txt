@@ -60,6 +60,9 @@ Bleed, Burn, Chill, DoT potency large (50%), health pick up time
 Legendary:
 Extra dash, Shatter, DoT duration increase
 
+Other:
+Increase max slow stacks | Set minimum speed of enemy
+
 crit logic:
 SET crit dam = gunDam * critMulti 
 after hit crit dam = 0; hasCrit = false
@@ -81,6 +84,7 @@ Rare:
 Epic:
 -Bleed
 -Burn
+-Slow
 -health spawn time
 Legendary:
 -Dash
@@ -98,22 +102,15 @@ Boss spawn logic:
 Have a dead enemy counter
 On threshold -> reset counter, increase threshold, despawn all enemies, spawn boss
 
+Feedback:
+-XP system, levelling speed good?
+-Enemy difficulty, is it too easy or too hard?
+-Powerup variety
+
 Outstanding issues:
 -Enemy time between attacks
--Not enough rare+ powerups
--Slows
 -Shatter
--Keep testing xp
--Difficulty increase over time
 -Wall run
 -Double jump
-
-Changelog:
--Added a main menu, pause menu now sends the player to main menu with the old exit button
--Added a timer that starts on game start and ends only at the end of the game
--Added framework to increase difficulty of enemies based on amount of enemies killed
-Issues:
--Timer does not pause when the game is paused
--Difficulty is not increased when the threshold is reached
 
 
