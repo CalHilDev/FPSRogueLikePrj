@@ -109,11 +109,9 @@ Feedback:
 
 Outstanding issues:
 -Enemy time between attacks
--Wall run
--Double jump
 -Options
 -Guide
--Multiple enemy spawning & spawn rates
--Bleed duration, Burn Multiplier, Burn duration (any powerup previously altered in BP_EnemyAI)
+-spawn rates
+-powerup previously altered in BP_EnemyAI need to be changed
 
 
