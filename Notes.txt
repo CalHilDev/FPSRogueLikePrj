@@ -103,9 +103,9 @@ Have a dead enemy counter
 On threshold -> reset counter, increase threshold, despawn all enemies, spawn boss
 
 Feedback:
--XP system, levelling speed good?
--Enemy difficulty, is it too easy or too hard?
--Powerup variety
+-Enemy spawn frequency
+-Suggestions for clarity of debuffs
+-Potential map work?
 
 Outstanding issues:
 -Enemy time between attacks
@@ -113,5 +113,6 @@ Outstanding issues:
 -Guide
 -spawn rates
 -powerup previously altered in BP_EnemyAI need to be changed
+-powerups with both a positive and negative effect i.e. "gain 2x% mvspd but enemies gain x% dmg"
 
 
