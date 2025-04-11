@@ -6889,6 +6889,14 @@
 			"ChunkId": "4ee315bb07b96f8100000001"
 		},
 		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffDoubleJump.uasset",
+			"ChunkId": "a5be8d7f93f8fd7800000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffEvasion.uasset",
+			"ChunkId": "570ba690c5d75bc600000001"
+		},
+		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffHealth.uasset",
 			"ChunkId": "d9c2ef0caca4698000000001"
 		},
@@ -6903,6 +6911,18 @@
 		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffMultiShot.uasset",
 			"ChunkId": "377a68b6ff87e04500000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffShatter.uasset",
+			"ChunkId": "b9ae17d850d59e9a00000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffShatterBig.uasset",
+			"ChunkId": "33db5d636e76e5f600000001"
+		},
+		{
+			"Path": "FPSRogueLike/Content/UI/WB_BuffShatterSmall.uasset",
+			"ChunkId": "9c0a12a96b0b127400000001"
 		},
 		{
 			"Path": "FPSRogueLike/Content/UI/WB_BuffSlow.uasset",
@@ -15565,6 +15585,18 @@
 			]
 		},
 		{
+			"Name": "/Game/UI/WB_BuffDoubleJump",
+			"ExportBundleChunkIds": [
+				"a5be8d7f93f8fd7800000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffEvasion",
+			"ExportBundleChunkIds": [
+				"570ba690c5d75bc600000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/WB_BuffHealth",
 			"ExportBundleChunkIds": [
 				"d9c2ef0caca4698000000001"
@@ -15586,6 +15618,24 @@
 			"Name": "/Game/UI/WB_BuffMultiShot",
 			"ExportBundleChunkIds": [
 				"377a68b6ff87e04500000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffShatter",
+			"ExportBundleChunkIds": [
+				"b9ae17d850d59e9a00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffShatterBig",
+			"ExportBundleChunkIds": [
+				"33db5d636e76e5f600000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/WB_BuffShatterSmall",
+			"ExportBundleChunkIds": [
+				"9c0a12a96b0b127400000001"
 			]
 		},
 		{

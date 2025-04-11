@@ -110,9 +110,13 @@ Feedback:
 Outstanding issues:
 -Enemy time between attacks
 -Options
--Guide
 -spawn rates
 -powerup previously altered in BP_EnemyAI need to be changed
 -powerups with both a positive and negative effect i.e. "gain 2x% mvspd but enemies gain x% dmg"
+-Bosses
+-Map?
 
 
+Increase speed, increase enemy damage
+Increase health, decrease damage
+Increase DoT dmg, decrease shot dmg

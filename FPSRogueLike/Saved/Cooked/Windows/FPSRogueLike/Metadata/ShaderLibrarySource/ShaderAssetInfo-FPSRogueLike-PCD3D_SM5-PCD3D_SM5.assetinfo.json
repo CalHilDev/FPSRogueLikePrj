@@ -2,15 +2,21 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "EA4F587680326F515A68BB9AF9A9FDD4522A2B7A",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "063790344C62B520A5E3E0C2D62F7A9E8DE1932B",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B2AEF208D4B8C8234CA3652D79DF9EC8C54C0AE6",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA4F587680326F515A68BB9AF9A9FDD4522A2B7A",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
@@ -48,12 +54,6 @@
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
 				"/Engine/MapTemplates/Sky/M_BlackBackground"
-			]
-		},
-		{
-			"ShaderMapHash": "B2AEF208D4B8C8234CA3652D79DF9EC8C54C0AE6",
-			"Assets": [
-				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
 			]
 		},
 		{
@@ -105,15 +105,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "31DC42471A544EF3B9DDB289E32ABED9B44BBDA3",
-			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Mud"
-			]
-		},
-		{
 			"ShaderMapHash": "185CA851D503102A8BA26AE743260AD0FA6BFE8A",
 			"Assets": [
 				"/Game/MilitaryWeapSilver/FX/Materials/M_Tracer_A"
+			]
+		},
+		{
+			"ShaderMapHash": "31DC42471A544EF3B9DDB289E32ABED9B44BBDA3",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Mud"
 			]
 		},
 		{
@@ -126,6 +126,18 @@
 			"ShaderMapHash": "5C0A632BF3CB9860B20811D957F7307A6863937B",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Basic_Shape"
+			]
+		},
+		{
+			"ShaderMapHash": "2024C66AE0A84BD95138750FDBBD797D4B243968",
+			"Assets": [
+				"/Game/Materials/MatRedDark"
+			]
+		},
+		{
+			"ShaderMapHash": "273E20EBD5F22E67375469094EA4CD1E458D29EE",
+			"Assets": [
+				"/Game/Materials/M_BrownRed"
 			]
 		},
 		{
@@ -147,15 +159,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2024C66AE0A84BD95138750FDBBD797D4B243968",
+			"ShaderMapHash": "F3FB337B7F22CC03D704FF18C6442933BE536C7E",
 			"Assets": [
-				"/Game/Materials/MatRedDark"
-			]
-		},
-		{
-			"ShaderMapHash": "273E20EBD5F22E67375469094EA4CD1E458D29EE",
-			"Assets": [
-				"/Game/Materials/M_BrownRed"
+				"/Game/FPWeapon/Materials/BaseMaterial",
+				"/Engine/TemplateResources/M_Template_Master"
 			]
 		},
 		{
@@ -165,10 +172,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F3FB337B7F22CC03D704FF18C6442933BE536C7E",
+			"ShaderMapHash": "DE6E354202800737CD8129D30065844EEFB19E0F",
 			"Assets": [
-				"/Game/FPWeapon/Materials/BaseMaterial",
-				"/Engine/TemplateResources/M_Template_Master"
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
@@ -200,18 +212,6 @@
 			"ShaderMapHash": "E6AD92431E92E425DEBDC6C351918C071876255B",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "DE6E354202800737CD8129D30065844EEFB19E0F",
-			"Assets": [
-				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
-			]
-		},
-		{
-			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
-			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
@@ -294,27 +294,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "450AFF31BFBE25F7442E9CED8DB1823483909B6E",
+			"ShaderMapHash": "6A4232C9D913DA2FA72BB0CC1D1DD983D85CF04B",
 			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_B"
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Explosion_E"
 			]
 		},
 		{
-			"ShaderMapHash": "8203C7123ACFAE85B50F63695103745FC9320AEF",
+			"ShaderMapHash": "ADBD91FA8D0B491CE66B6A67D743400B6FA030FA",
 			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground"
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_C"
 			]
 		},
 		{
-			"ShaderMapHash": "9029762BE00146FCBB15461F6749E988FC07F551",
+			"ShaderMapHash": "2C878D341ACD64AA1268348DFA4657ADAC008993",
 			"Assets": [
-				"/Game/MilitaryWeapSilver/FX/Materials/M_LightRay_01"
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Explosion_8x8_A_01"
 			]
 		},
 		{
-			"ShaderMapHash": "7F4142BAFBA37EDD4FC5002CCDD417283FB520A6",
+			"ShaderMapHash": "3AE34C5F356A8FA8B9FED7A5D2839A1624D20FE5",
 			"Assets": [
-				"/Game/MilitaryWeapSilver/FX/Materials/M_Knife_RibbonTrail_01"
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Ember_Speed_01"
 			]
 		},
 		{
@@ -374,21 +374,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9029762BE00146FCBB15461F6749E988FC07F551",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_LightRay_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7F4142BAFBA37EDD4FC5002CCDD417283FB520A6",
+			"Assets": [
+				"/Game/MilitaryWeapSilver/FX/Materials/M_Knife_RibbonTrail_01"
+			]
+		},
+		{
 			"ShaderMapHash": "A979826F69AB94EF81C66ABA44BBB9D31EFB79AC",
 			"Assets": [
 				"/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_Smoke_2x2_A"
-			]
-		},
-		{
-			"ShaderMapHash": "2C878D341ACD64AA1268348DFA4657ADAC008993",
-			"Assets": [
-				"/Game/MilitaryWeapSilver/FX/Materials/M_Explosion_8x8_A_01"
-			]
-		},
-		{
-			"ShaderMapHash": "3AE34C5F356A8FA8B9FED7A5D2839A1624D20FE5",
-			"Assets": [
-				"/Game/MilitaryWeapSilver/FX/Materials/M_Ember_Speed_01"
 			]
 		},
 		{
@@ -443,15 +443,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8F84F6CF7D05BC0FC45814F569513A8A4E2DDFE5",
+			"ShaderMapHash": "8203C7123ACFAE85B50F63695103745FC9320AEF",
 			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_A"
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground"
 			]
 		},
 		{
-			"ShaderMapHash": "ADBD91FA8D0B491CE66B6A67D743400B6FA030FA",
+			"ShaderMapHash": "8F84F6CF7D05BC0FC45814F569513A8A4E2DDFE5",
 			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_C"
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_A"
 			]
 		},
 		{
@@ -512,6 +512,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "450AFF31BFBE25F7442E9CED8DB1823483909B6E",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_B"
+			]
+		},
+		{
 			"ShaderMapHash": "B8334057B24E8E9C168F1B8DFADF311CA2BCE617",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_C"
@@ -521,12 +527,6 @@
 			"ShaderMapHash": "7F9D86A3B89692E1D2768C118FEBB2BDEC1A9EF6",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Flies"
-			]
-		},
-		{
-			"ShaderMapHash": "6A4232C9D913DA2FA72BB0CC1D1DD983D85CF04B",
-			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Explosion_E"
 			]
 		},
 		{
@@ -578,15 +578,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8C8187CB3CB377F2E8E241F78FDCE5CD7114CB9A",
+			"ShaderMapHash": "B3318EB183E8E4D072DDAD3AE63CAF6506954FC4",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Leaves_A"
 			]
 		},
 		{
-			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
+			"ShaderMapHash": "12D161FB6561CB0394645B41DFE442996B463843",
 			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_Splat"
+			]
+		},
+		{
+			"ShaderMapHash": "8C8187CB3CB377F2E8E241F78FDCE5CD7114CB9A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
 			]
 		},
 		{
@@ -599,18 +605,6 @@
 			"ShaderMapHash": "6A813BDE33ED7863A74071DBFB67E617374AF8F4",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "B3318EB183E8E4D072DDAD3AE63CAF6506954FC4",
-			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Leaves_A"
-			]
-		},
-		{
-			"ShaderMapHash": "12D161FB6561CB0394645B41DFE442996B463843",
-			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_Splat"
 			]
 		},
 		{
@@ -638,6 +632,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "6A0CAD2B022475E23C83CF431974EE8DCA260F37",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -662,12 +662,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "504B40DBD67296B6F05B3B5AE6062B2EDB6E7C03",
-			"Assets": [
-				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fish_A"
-			]
-		},
-		{
 			"ShaderMapHash": "CAF3B8DDF387404A510E09BE5963A3A630AD7637",
 			"Assets": [
 				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_B"
@@ -683,6 +677,12 @@
 			"ShaderMapHash": "6E827DBD71BC7789C977D8E103CBB03441228995",
 			"Assets": [
 				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "504B40DBD67296B6F05B3B5AE6062B2EDB6E7C03",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fish_A"
 			]
 		},
 		{
@@ -725,12 +725,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BDE30134A1800CDBDC83502FD98307D9BC784B13",
-			"Assets": [
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
-			]
-		},
-		{
 			"ShaderMapHash": "9C244D03B5C29C5567F2D55B098443219C5247EC",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
@@ -744,11 +738,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B4DA5476210491D36ADD42C61E8B38C8FF8E6B02",
+			"ShaderMapHash": "BDE30134A1800CDBDC83502FD98307D9BC784B13",
 			"Assets": [
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
-				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
-				"/Game/Sword_Animation/Demo/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "9E80516034BE8EB17E77D1B45E7138B03E657D8B",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
@@ -764,9 +762,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9E80516034BE8EB17E77D1B45E7138B03E657D8B",
+			"ShaderMapHash": "B4DA5476210491D36ADD42C61E8B38C8FF8E6B02",
 			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+				"/Game/Sword_Animation/Demo/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		},
 		{
