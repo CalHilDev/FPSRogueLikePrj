@@ -3759,6 +3759,47 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/FX/CascadeToNiagaraConverter/CascadeToNiagaraConverter.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Cascade To Niagara Converter",
+				"Description": "Add support for scriptable conversion of Cascade Systems to Niagara Systems.",
+				"Category": "FX",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "CascadeToNiagaraConverter",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "Niagara",
+						"Enabled": true
+					},
+					{
+						"Name": "PythonScriptPlugin",
+						"Enabled": true
+					},
+					{
+						"Name": "EditorScriptingUtilities",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Tests/EditorTests/EditorTests.uplugin",
 			"Descriptor": 
 			{
