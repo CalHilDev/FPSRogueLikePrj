@@ -114,7 +114,7 @@ Outstanding issues:
 -powerup previously altered in BP_EnemyAI need to be changed
 -powerups with both a positive and negative effect i.e. "gain 2x% mvspd but enemies gain x% dmg"
 -Bosses
--Map?
+-attach spawner to player + reduce spawn radius + despawn/respawn when too far away
 
 
 Increase speed, increase enemy damage
