@@ -125,3 +125,7 @@ Increase DoT dmg, decrease shot dmg
 --- alpha notes ---
 Rework gun combat - fire -> flamethrower | freeze -> rapid fire | remove shatter
 Add enemy spawn that throws a rock with a knockback to prevent players standing still on a high place
+Powerup to increase fog radius (don't bother with falloff)
+Despawn logic - if TimeAlive > x && !isSeeingPlayer && !damagedRecently then despawn
+- damagedRecently set true when hit, false when not hit for 10 seconds
+# This should stop the game getting overcluttered reducing lag and not cause any despawns to happen in the middle of combat
