@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"F:\\Pro\\FPSRogueLikePrj\\FPSRogueLike 5.5\\Intermediate\\Source\\FPSRogueLike.Build.cs",
+		"F:\\Pro\\FPSRogueLikePrj\\FPSRogueLike 5.5\\Intermediate\\Source\\FPSRogueLike.Target.cs",
+		"F:\\Pro\\FPSRogueLikePrj\\FPSRogueLike 5.5\\Intermediate\\Source\\FPSRogueLikeClient.Target.cs",
+		"F:\\Pro\\FPSRogueLikePrj\\FPSRogueLike 5.5\\Intermediate\\Source\\FPSRogueLikeEditor.Target.cs",
+		"F:\\Pro\\FPSRogueLikePrj\\FPSRogueLike 5.5\\Intermediate\\Source\\FPSRogueLikeServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

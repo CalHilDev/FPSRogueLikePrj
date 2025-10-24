@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\pro\\fpsroguelikeprj\\fpsroguelike 5.5\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fpsroguelike\\module.fpsroguelike.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\pro\\fpsroguelikeprj\\fpsroguelike 5.5\\intermediate\\build\\win64\\x64\\fpsroguelike\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\pro\\fpsroguelikeprj\\fpsroguelike 5.5\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fpsroguelike\\definitions.fpsroguelike.h",
+            "f:\\pro\\fpsroguelikeprj\\fpsroguelike 5.5\\intermediate\\source\\fpsroguelike.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
