@@ -122,6 +122,10 @@ Increase health, decrease damage
 Increase DoT dmg, decrease shot dmg
 
 
+Shatter gone
+Powerups to alter gun range
+Maybe one to reduce range but increase damage
+
 --- alpha notes ---
 Rework gun combat - fire -> flamethrower | freeze -> rapid fire | remove shatter
 Add enemy spawn that throws a rock with a knockback to prevent players standing still on a high place
