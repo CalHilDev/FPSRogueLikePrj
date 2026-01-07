@@ -126,6 +126,10 @@ Shatter gone
 Powerups to alter gun range
 Maybe one to reduce range but increase damage
 
+New powerups to emulate different types of guns
+i.e. reduce range but increase damage (like a shot gun)
+i.e. increase damage when hitting enemies over 90% of your range away (sniper playstyle)
+
 --- alpha notes ---
 Rework gun combat - fire -> flamethrower | freeze -> rapid fire | remove shatter
 Add enemy spawn that throws a rock with a knockback to prevent players standing still on a high place
