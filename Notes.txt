@@ -121,16 +121,21 @@ Increase speed, increase enemy damage
 Increase health, decrease damage
 Increase DoT dmg, decrease shot dmg
 
+Replace chill with an aura around the player
+Increase potency - apply stacks over time (increase max stacks/rate of stacks applied)
+Increase aura size
 
 Shatter gone
 Powerups to alter gun range
 Maybe one to reduce range but increase damage
 
 New powerups to emulate different types of guns
-i.e. reduce range but increase damage (like a shot gun)
-i.e. increase damage when hitting enemies over 90% of your range away (sniper playstyle)
+i.e. reduce range but increase damage (like a shot gun) DONE
+i.e. increase damage when hitting enemies over 90% of your range away (sniper playstyle) DONE
 
 Each bleed you have grants you x% stat
+Bleeding enemies have a 1% chance to drop a health pickup
+Burning has a chance to spread to nearby enemies (increased by being shot, range of spread increased by other powerups)
 
 --- alpha notes ---
 Rework gun combat - fire -> flamethrower | freeze -> rapid fire | remove shatter
