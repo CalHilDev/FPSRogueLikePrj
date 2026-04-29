@@ -144,3 +144,8 @@ Powerup to increase fog radius (don't bother with falloff)
 Despawn logic - if TimeAlive > x && !isSeeingPlayer && !damagedRecently then despawn
 - damagedRecently set true when hit, false when not hit for 10 seconds
 # This should stop the game getting overcluttered reducing lag and not cause any despawns to happen in the middle of combat
+
+New powerups to be added:
+- high health lifesteal (hitting an enemy for the first time grants you 1 health back)
+- execution (you deal increased damage to enemies below 30% health)
+- SlowBleed causes an extra bleed tick on slow stack application (even above slow cap)
